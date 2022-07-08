@@ -138,5 +138,4 @@ for movie in sorted_similar_movies:
   if (i<30):
     print(i, '.',title_from_index)
     i+=1
-
-iron man
+    
